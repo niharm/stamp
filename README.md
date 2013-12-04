@@ -1,15 +1,17 @@
+============
 README for STAMP
 Nihar Madhavan
 November 2013
+============
 
 ============
-INTRODUCTION
+Introduction
 ============
 
 STAMP is the easiest way to respond to incoming email by applying a function to the message text, all from your terminal!
 
 =====
-USAGE
+Usage
 =====
 Email Setup
 -------------------------
