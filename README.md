@@ -1,7 +1,7 @@
 
 README for STAMP
 ============
-Nihar Madhavan
+Nihar Madhavan -
 November 2013
 
 ============
